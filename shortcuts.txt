@@ -1,0 +1,13 @@
+alt+1,2,3 - to shift between different files.
+
+ctrl+` - to open command prompt.
+
+ctrl+p - to select a file when they are different no of files.
+
+            it is used as an alternative to alt+1 or 2,3 (if they are many files)
+
+ctrl+w - to close single file.
+
+ctrl+w+k - to close all files.
+
+folder/folder2/index.html - to create folders and files directly.
